@@ -3,6 +3,7 @@
 
 Sleepwalking through blackouts, lost in a dreamlike state
 
+I for fun and desire to explore the world of applied physics in video games.
 <!-- Badges -->
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
