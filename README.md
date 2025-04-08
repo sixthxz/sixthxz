@@ -3,43 +3,15 @@
 
 Sleepwalking through blackouts, lost in a dreamlike state
 
-I for fun and desire to explore the world of applied physics in video games.
 <!-- Badges -->
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 
 <!-- Project Description -->
-## Site under construction
+## An attempt to translate my metaphysical findings into physics terms
 
-Site is under construction currently
 
-### What to expect:
+### yyyy/mm/dd
 
-- Quantum Physics
-  - Time and space what it is and how it works
-  - Creation and real shape of the universe
-  - How to work in a 4th dimensional axis
-- Quantum physics applied to videogames
-  - A Qubit in a videogame
-  - Entrophy in videogames QRNG
-  - 4D Space Mapping Tool
-- Coming soon
-
-### Screenshots
-
-Currently we keep this information to our researchers and sponsors
-
-<!-- Table of Contents -->
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-<!-- Installation -->
-## Installation
-
-This project was built using Unreal Engine, all you need to do is download the install file.
-
-```bash
-url unavailable
+- February
+  - 2025-10-02 - The expansion of the observable universe, limited by the speed of light but also shaped by the ability to acquire, model and structure information.
+- 
