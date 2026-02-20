@@ -2,61 +2,22 @@
 
 *Sleepwalking through blackouts, lost in a dreamlike state*
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<!-- Badges -->
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+---
 
-=======
->>>>>>> 8031e6a (6)
-<!-- Project Description -->
-## Site under construction
+*I work across theoretical and applied systems — from information thermodynamics to production architectures — exploring how feedback, constraint, and information flow shape behavior under noise.*
 
-<<<<<<< HEAD
-Site is under construction currently
+---
 
-### What to expect:
-=======
-### yyyy/mm/dd
->>>>>>> 8031e6a (6)
+> This isn't about physics. It isn't about metaphysics either.
+> It's a map — drawn by someone following an obsession long enough to find out what the obsession was actually about.
+> The equations are real. The simulations run. But what they were always tracing was something interior:
+> a pattern that started small, early, and kept showing up in every language tried.
+> Physics was just the one rigorous enough to hold it without breaking.
+> You don't have to understand the math to recognize the shape.
 
-<<<<<<< HEAD
-- Quantum Physics
-  - Time and space what it is and how it works
-  - Creation and real shape of the universe
-  - How to work in a 4th dimensional axis
-- Quantum physics applied to videogames
-  - A Qubit in a videogame
-  - Entrophy in videogames QRNG
-  - 4D Space Mapping Tool
-- Coming soon
+---
 
-### Screenshots
-
-Currently we keep this information to our researchers and sponsors
-
-<!-- Table of Contents -->
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-<!-- Installation -->
-## Installation
-
-This project was built using Unreal Engine, all you need to do is download the install file.
-
-```bash
-url unavailable
-=======
-- February
-  - 2024-10-02 - The expansion of the observable universe, limited by the speed of light but also shaped by the ability to acquire, model and structure information.
-  - 2025-04-19 - Extended Perceptual Quantum Equation (REC Version)
-  - 2026-02-17 - Formalization of the SFE-01 Information Motor (v4.1). Defined the average work per cycle ($W_{cycle}$) extractable from a controlled sinusoidal drive using mutual information ( $\mathcal{I}(\rho)$ ) under a resonant oscillator with damping and environmental decoherence ($\gamma_{env}$). Provided quantitative predictions for energy per bit, effective energy for LED output, and photon flux for coherent emission.
-=======
-## An attempt to translate my metaphysical findings into physics terms
+## An attempt to translate my findings into a language I could hold
 
 ---
 
@@ -74,12 +35,7 @@ url unavailable
 
 ---
 
-<<<<<<< HEAD
-## SFE-01 Information Motor - Physical Model
->>>>>>> 932ba70 (v4.1.2)
-=======
 ## SFE-01 Information Motor — Physical Model
->>>>>>> 3ec9501 (v5)
 
 $$
 W_{cycle} = \eta_{eff} \cdot \int_{0}^{2\pi/\Omega}
@@ -98,44 +54,6 @@ At resonance ($\Omega = \omega_0$): $|\chi(\Omega)|^2 = 1/(\gamma^2 \omega_0^2)$
 
 | Symbol | Meaning |
 | :--- | :--- |
-<<<<<<< HEAD
-| **$W_{cycle}$** | Net extractable work per control cycle [Joules]. |
-| **$k_B$** | Boltzmann constant ($1.38 \times 10^{-23}$ J/K). |
-| **$T$** | Absolute temperature of the thermal bath [Kelvin]. |
-| **$\mathcal{I}(\rho)$** | Mutual information between system and controller [Bits/Nats]. |
-| **$\phi_0$** | Phase modulation amplitude of the drive [rad]. |
-| **$\Omega$** | Angular frequency of the sinusoidal drive [rad/s]. |
-| **$\eta_{eff}$** | Efficiency of energy coupling to output channel [Dimensionless]. |
-| **$\omega$** | Natural angular frequency of the resonant oscillator [rad/s]. |
-| **$\gamma$** | Intrinsic damping coefficient of the sensor [$s^{-1}$]. |
-| **$\gamma_{env}$** | Decoherence rate induced by the environment [$s^{-1}$]. |
-
-### Physical Visualization & Simulation Results
-<div align="center">
-  <img src="data/figures/figure_1.png" width="800">
-  <p><i>Figure 1: 4-Quadrant Analysis showing Langevin dynamics (stochastic noise), Resonance width vs Damping, Average Work vs Detuning, and the Landauer Limit Comparison.</i></p>
-</div>
-
-<<<<<<< HEAD
-#### General Explanation:
-
-This update formalizes the SFE-01 motor as a **controlled information-to-energy transducer**. The integral computes the work per cycle under a sinusoidal phase drive, rectified to prevent backflow of energy. Predictions include:
-
-<<<<<<< HEAD
->>>>>>> f45cc66 (2025-19-04 equation)
-=======
-- Energy per bit at ambient temperature: $E_\text{bit} \approx 2.8 \times 10^{-21}\ \text{J}$ for 1 bit.
-- Effective LED output at 10\% coupling: $E_\text{LED} \approx 2.8 \times 10^{-22}\ \text{J}$.
-- Photon flux for coherent emission: approximately $1.3 \times 10^{3}$ bits needed per photon at $\lambda = 550\ \text{nm}$. 
-
-This formalization separates metaphorical terms from physically measurable quantities, providing a reproducible framework for **quantitative experiments or simulations** of the motor.
-=======
-#### Technical Breakdown:
-1. **Langevin Dynamics:** The simulation confirms that the sensor operates in a regime where thermal fluctuations ($10^{-10}\ \text{m}$ scale) are dominant. Work is only possible through precise phase-rectification informed by $\mathcal{I}(\rho)$.
-2. **Resonance Profile:** The Lorentzian curve demonstrates that the motor's "attention" (detuning $\Delta\omega$) must be perfectly centered to maximize energy transduction.
-3. **Environmental Stability:** The study of $\gamma_{total}$ shows that decoherence acts as a dissipative filter, reducing the peak height and broadening the resonance, which defines the physical limit of the motor's "focus."
->>>>>>> 932ba70 (v4.1.2)
-=======
 | $W_{cycle}$ | Net extractable work per control cycle [Joules] |
 | $k_B$ | Boltzmann constant ($1.38 \times 10^{-23}$ J/K) |
 | $T$ | Absolute temperature of the thermal bath [Kelvin] |
@@ -147,7 +65,6 @@ This formalization separates metaphorical terms from physically measurable quant
 | $\gamma$ | Intrinsic damping coefficient of the sensor [s⁻¹] |
 | $\gamma_{env}$ | Decoherence rate induced by the environment [s⁻¹] |
 | $\chi(\Omega)$ | Complex susceptibility of the driven oscillator |
->>>>>>> 3ec9501 (v5)
 
 ---
 
@@ -226,15 +143,6 @@ This formalization separates metaphorical terms from physically measurable quant
     │  v5.0: φ_fb = ±π/2   │
     └───────────┬───────────┘
                 │ Drive Signal
-<<<<<<< HEAD
-   ▼
-    ┌─────────┐
-    │ Output  │
-    └─────────┘
-</pre>
-</div>
->>>>>>> 8031e6a (6)
-=======
                 ▼
     ┌───────────────────────┐
     │        Output         │
@@ -245,6 +153,8 @@ This formalization separates metaphorical terms from physically measurable quant
 ---
 
 ## Simulation
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1emrmfiiq4V9q7aiKvux1RTcpJqhMTjwH?usp=sharing)
 
 `sfe_01_v5.py` — Google Colab compatible. All figure output paths resolve to `/tmp/sfe01_figs/` by default; uncomment the Drive mount block to persist across sessions.
 
@@ -259,4 +169,25 @@ This formalization separates metaphorical terms from physically measurable quant
 | Ensemble $\langle W_{cycle}\rangle$ (n=60) | $2.62 \times 10^{-22} \pm 2.0 \times 10^{-24}$ J |
 | Decoherence blackout threshold | $\gamma_{env} \approx 4.5\ \text{s}^{-1}$ |
 | Next target | Phase-locked loop (PLL) / Kalman filter feedback |
->>>>>>> 3ec9501 (v5)
+
+---
+
+## Where this arrived
+
+Every version of this project — the equations, the simulations, the obsession with the boundary between observer and noise — was following the same thread from different angles.
+
+It wasn't trying to unify things. Unification would have forced everything into one language and broken what made each stream real. What it was looking for was the merging point: the place where physics, perception, and something much older and more personal all flow into the same basin without losing their nature.
+
+That point exists. It isn't a formula.
+
+It's the recognition that the motor was never just about extracting work from thermal noise. It was about whether a system — any system — can know itself clearly enough to act without being destroyed by what it finds. Whether attention has a cost. Whether feedback changes the observer as much as it changes the observed. Whether the measurement is ever truly separate from the thing being measured.
+
+Those aren't physics questions. They were never physics questions.
+
+The physics just made them possible to hold.
+
+---
+
+*This project remains open. Not because it's unfinished — but because merging, unlike unification, doesn't end. It continues downstream.*
+
+*If any of this resonates — the questions more than the answers — you're probably already in the right place.*
